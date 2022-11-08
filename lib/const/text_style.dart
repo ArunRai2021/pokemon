@@ -13,3 +13,5 @@ Widget normalText({String? text, Color? color, double? size}) {
     style: TextStyle(fontSize: size, fontFamily: "circula", color: color),
   );
 }
+
+
